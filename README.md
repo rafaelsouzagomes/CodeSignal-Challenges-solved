@@ -1,7 +1,7 @@
 # Challenges solved from CodeSignal
  
 ## Arcade Intro:
- S.N | Name of Challenge | Solutions 
+ Nº | Name of Challenge | Solutions 
 ----|-------------------|-----------
 45 | BuildPalindrome | [Solution](https://github.com/rafaelsouzagomes/CodeSignal-Challenges-solved/blob/main/Arcade/Intro/_0045_BuildPalindrome/BuildPalindrome.java) 
 46 | ElectionsWinners | [Solution](https://github.com/rafaelsouzagomes/CodeSignal-Challenges-solved/blob/main/Arcade/Intro/_0046_ElectionsWinners/ElectionsWinners.java)
