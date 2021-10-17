@@ -1,4 +1,4 @@
-package _0048_Is_MAC48_Address;
+package _0047_Is_MAC48_Address;
 
 import java.util.regex.Pattern;
 

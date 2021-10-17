@@ -1,4 +1,4 @@
-package _0047_ElectionsWinners;
+package _0046_ElectionsWinners;
 
 import static org.junit.jupiter.api.Assertions.*;
 

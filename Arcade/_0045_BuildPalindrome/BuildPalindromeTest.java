@@ -1,4 +1,4 @@
-package _0046_BuildPalindrome;
+package _0045_BuildPalindrome;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

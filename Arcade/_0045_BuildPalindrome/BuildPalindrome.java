@@ -1,4 +1,4 @@
-package _0046_BuildPalindrome;
+package _0045_BuildPalindrome;
 
 public class BuildPalindrome {
 
